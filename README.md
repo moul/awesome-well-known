@@ -7,13 +7,16 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 
 * Defining Well-Known Uniform Resource Identifiers (URIs) - https://tools.ietf.org/html/rfc5785
 
-### Paths
+### The URIs
 
 * .well-known/acme-challenge
 * .well-known/apple-app-site-association
 * .well-known/apple-developer-merchant-domain-association
 * .well-known/ashrae
 * .well-known/assetlinks.json
+  * https://developers.google.com/digital-asset-links/v1/getting-started
+* .well-known/brave-payments-verification.txt
+* .well-known/brave-rewards-verification.txt
 * .well-known/browserid
 * .well-known/caldav
 * .well-known/carddav
@@ -27,6 +30,9 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 * .well-known/hoba
 * .well-known/host-meta
 * .well-known/host-meta.json
+* .well-known/humans.txt
+  * https://humanstxt.org
+  * https://www.reddit.com/r/web_design/comments/260hfj/how_many_of_you_use_the_humanstxt_if_not_why/
 * .well-known/keybase.txt
 * .well-known/ni
 * .well-known/openid-configuration
@@ -34,6 +40,8 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 * .well-known/posh
 * .well-known/reload-config
 * .well-known/repute-template
+* .well-known/security.txt
+  * https://securitytxt.org
 * .well-known/stun-key
 * .well-known/time
 * .well-known/timezone
@@ -42,6 +50,9 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 
 ### Resources
 
-* https://github.com/search?utf8=%E2%9C%93&q=filepath%3A%2F.well-known&type=Code
+* Well-Known URIs on IANA: [txt](https://www.iana.org/assignments/well-known-uris/well-known-uris.txt), [html](https://www.iana.org/assignments/well-known-uris/well-known-uris.xhtml)
+* Wikipedia: https://en.m.wikipedia.org/wiki/List_of_/.well-known/_services_offered_by_webservers
+* Search on GitHub: https://github.com/search?utf8=%E2%9C%93&q=filepath%3A%2F.well-known&type=Code
+* A list of well-known path for automated webserver fingerprinting: https://github.com/ftteh/wordlists/blob/master/processed/discovery/predictable-filepaths_done/wellknown-rfc5785.txt
 
 ## Related projects

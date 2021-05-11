@@ -20,6 +20,8 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 * .well-known/browserid
 * .well-known/caldav
 * .well-known/carddav
+* .well-known/change-password
+  * https://github.com/WICG/change-password-url
 * .well-known/core
 * .well-known/csvm
 * .well-known/dnt

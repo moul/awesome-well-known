@@ -7,7 +7,7 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 
 * Defining Well-Known Uniform Resource Identifiers (URIs) - https://tools.ietf.org/html/rfc5785
 
-### The URIs
+### `.well-known/`-prefixed URIs
 
 * .well-known/acme-challenge
 * .well-known/apple-app-site-association
@@ -49,6 +49,11 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 * .well-known/timezone
 * .well-known/void
 * .well-known/webfinger
+
+### Root-only URIs
+
+* /ads.txt
+  * https://iabtechlab.com/ads-txt/
 
 ### Resources
 

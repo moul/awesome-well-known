@@ -54,6 +54,8 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 
 * /ads.txt
   * https://iabtechlab.com/ads-txt/
+* /robots.txt
+  * https://www.robotstxt.org
 
 ### Resources
 

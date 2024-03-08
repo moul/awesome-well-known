@@ -39,6 +39,9 @@ A curated list of well-known URIs, resources, guides and tools (RFC 5785)
 * .well-known/ni
 * .well-known/openid-configuration
 * .well-known/openorg
+* .well-known/openpgpkey
+  * https://wiki.gnupg.org/WKDHosting
+  * https://datatracker.ietf.org/doc/html/draft-koch-openpgp-webkey-service
 * .well-known/posh
 * .well-known/reload-config
 * .well-known/repute-template
